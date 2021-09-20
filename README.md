@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Luiz-Zimmermann GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Zimmermann)](https://github.com/Luiz-Zimmermann/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Zimmermann&layout=compact)](https://github.com/Luiz-Zimmermann/github-readme-stats)
-[![Luiz-Zimmermann wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luiz-Zimmermann)](https://github.com/Luiz-Zimmermann/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Zimmermann&layout=compact&langs_count=10)](https://github.com/Luiz-Zimmermann/github-readme-stats)
+
 
 
